@@ -1,6 +1,6 @@
 # yes-run
 
-My own lil URL shortener, thanks to Cassidoo!
+My own lil URL shortener, thanks to Cassidoo 💖!
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/646e491e-7ee1-437d-a516-93efd10615c1/deploy-status)](https://app.netlify.com/sites/yes-run/deploys)
 
